@@ -2,14 +2,17 @@
 
 This is a landingpage of science and technology products. The design is atmospheric, the code is developed based on [react](https://reactjs.org/) and [particles-bg](https://github.com/lindelof/particles-bg), and it has good scalability.
 
-[**Check out the demo**](https://reactsaastemplate.com)
+[**Check out the demo**](https://wonderfullandingpage.github.io/Technology-LandingPage/)
 
 ![Node.js CI](https://github.com/dunky11/react-saas-template/workflows/Node.js%20CI/badge.svg)
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=dunky11/react-saas-template)](https://dependabot.com)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
+![](https://github.com/wonderfullandingpage/Technology-LandingPage/blob/master/public/images/a1.jpg?raw=true)
 
-The project forks from [here](https://wonderfullandingpage.github.io/Technology-LandingPage/) thanks to the original author.
+![](https://github.com/wonderfullandingpage/Technology-LandingPage/blob/master/public/images/a2.jpg?raw=true)
+
+The project forks from [here](https://github.com/dunky11/react-saas-template/) thanks to the original author.
 
 ## Getting Started
 
