@@ -1,0 +1,26 @@
+/*!
+ * JavaScript Cookie v2.2.1
+ * https://github.com/js-cookie/js-cookie
+ *
+ * Copyright 2006, 2015 Klaus Hartl & Fagner Brack
+ * Released under the MIT license
+ */
+
+/*!
+* Proton v4.2.1
+* https://github.com/drawcall/Proton
+*
+* Copyright 2013-2020, A-JIE
+* Licensed under the MIT license
+* http://www.opensource.org/licenses/mit-license
+*
+*/
+
+/*!
+* RAFManager v0.1.0
+*
+* Copyright 2018-2018, ajiemath <ajiemath@gmail.com>
+* Licensed under the MIT license
+* http://www.opensource.org/licenses/mit-license
+*
+*/
