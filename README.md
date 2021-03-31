@@ -9,7 +9,7 @@ This is a landingpage of science and technology products. The design is atmosphe
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 
-The project forks from [here](https://github.com/dunky11/react-saas-template) thanks to the original author.
+The project forks from [here](https://wonderfullandingpage.github.io/Technology-LandingPage/) thanks to the original author.
 
 ## Getting Started
 
@@ -32,12 +32,13 @@ The project forks from [here](https://github.com/dunky11/react-saas-template) th
 1. Clone the repository
 
    ```
-   git clone https://github.com/dunky11/react-saas-template
+   git clone https://github.com/wonderfullandingpage/Technology-LandingPage
    ```
 2. Install dependencies, this can take a minute
 
    ```
-   cd react-saas-template
+   cd Technology-LandingPage
+
    npm install
    ```
 3. Start the local server
@@ -70,4 +71,4 @@ Show your support by ⭐ the project. Pull requests are always welcome.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dunky11/react-saas-template/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://wonderfullandingpage.github.io/Technology-LandingPage/blob/master/LICENSE) file for details.
