@@ -11,7 +11,7 @@ const warningMain = "rgba(253, 200, 69, .5)";
 const warningDark = "rgba(253, 200, 69, .7)";
 
 // border
-const borderWidth = 8;
+const borderWidth = 0;
 const borderColor = "rgba(0, 0, 0, 0.13)";
 
 // breakpoints
@@ -63,7 +63,8 @@ const theme = createMuiTheme({
   },
   border: {
     borderColor: borderColor,
-    borderWidth: borderWidth
+    borderWidth: borderWidth,
+    borderRadius: 0
   },
   overrides: {
     MuiExpansionPanel: {

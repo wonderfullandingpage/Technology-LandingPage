@@ -32,7 +32,7 @@ function Main(props) {
   const selectHome = useCallback(() => {
     smoothScrollTop();
     document.title =
-      "Rust - Free template for building a SaaS or admin application";
+      "Rust - Free template for building a Web or admin application";
     setSelectedTab("Home");
   }, [setSelectedTab]);
 

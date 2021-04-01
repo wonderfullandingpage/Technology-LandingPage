@@ -109,7 +109,7 @@ const styles = (theme) => ({
     backgroundColor: `${theme.palette.primary.main} !important`,
   },
   brandText: {
-    fontFamily: "'Baloo Bhaijaan', cursive",
+    fontFamily: "'Teko', cursive",
     fontWeight: 400,
   },
   username: {
@@ -232,17 +232,9 @@ function NavBar(props) {
                 variant="h4"
                 className={classes.brandText}
                 display="inline"
-                color="primary"
-              >
-                Ru
-              </Typography>
-              <Typography
-                variant="h4"
-                className={classes.brandText}
-                display="inline"
                 color="secondary"
               >
-                st
+                LandingPage Template
               </Typography>
             </Hidden>
           </Box>

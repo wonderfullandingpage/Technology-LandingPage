@@ -44,6 +44,7 @@ function FeatureCard(props) {
         // We will set color and fill here, due to some prios complications
         className={classes.iconWrapper}
         style={{
+          borderRadius: "50%",
           color: color,
           backgroundColor: shadeColor(color, 0.5),
           fill: color

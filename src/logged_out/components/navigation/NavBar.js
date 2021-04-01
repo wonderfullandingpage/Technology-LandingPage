@@ -31,7 +31,7 @@ const styles = theme => ({
     fontWeight: theme.typography.h6.fontWeight
   },
   brandText: {
-    fontFamily: "'Baloo Bhaijaan', cursive",
+    fontFamily: "'Teko', cursive",
     fontWeight: 400
   },
   noDecoration: {
@@ -71,6 +71,7 @@ function NavBar(props) {
       icon: <LockOpenIcon className="text-white" />
     }
   ];
+  
   return (
     <div className={classes.root}>
       <AppBar position="fixed" className={classes.appBar}>
@@ -80,17 +81,9 @@ function NavBar(props) {
               variant="h4"
               className={classes.brandText}
               display="inline"
-              color="primary"
-            >
-              Ru
-            </Typography>
-            <Typography
-              variant="h4"
-              className={classes.brandText}
-              display="inline"
               color="secondary"
             >
-              st
+              LandingPage Template
             </Typography>
           </div>
           <div>

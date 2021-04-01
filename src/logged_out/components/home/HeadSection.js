@@ -115,6 +115,7 @@ function HeadSection(props) {
               className={classes.card}
               data-aos-delay="200"
               data-aos="zoom-in"
+              square={true}
             >
               <div className={classNames(classes.containerFix, "container")}>
                 <Box justifyContent="space-between" className="row">
@@ -129,7 +130,7 @@ function HeadSection(props) {
                         <Typography
                           variant={isWidthUp("lg", width) ? "h3" : "h4"}
                         >
-                          Free Template for building a SaaS app using
+                          Free Template for building a WebPage using
                           Material-UI
                         </Typography>
                       </Box>
@@ -149,7 +150,7 @@ function HeadSection(props) {
                           fullWidth
                           className={classes.extraLargeButton}
                           classes={{ label: classes.extraLargeButtonLabel }}
-                          href="https://github.com/dunky11/react-saas-template"
+                          href="https://github.com/wonderfullandingpage/Technology-LandingPage"
                         >
                           Download from GitHub
                         </Button>
